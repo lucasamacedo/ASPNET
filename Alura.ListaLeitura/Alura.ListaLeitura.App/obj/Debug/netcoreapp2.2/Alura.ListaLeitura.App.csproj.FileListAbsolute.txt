@@ -1,0 +1,12 @@
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.deps.json
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.runtimeconfig.json
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.runtimeconfig.dev.json
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.dll
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.2\Alura.ListaLeitura.App.pdb
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.AssemblyInfo.cs
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.dll
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.pdb
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.2\Alura.ListaLeitura.App.genruntimeconfig.cache

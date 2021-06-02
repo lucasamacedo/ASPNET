@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Alura.ListaLeitura.App": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Github Projetos\\ASPNET MVC\\Alura.ListaLeitura\\Alura.ListaLeitura.App"
+    }
+  }
+}
