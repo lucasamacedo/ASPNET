@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CursoCSharp_MVC_pt1
 {
-    public class Catalogo
+    public class Catalogo : ICatalogo
     {
         public List<Livro> GetLivros()
         {
