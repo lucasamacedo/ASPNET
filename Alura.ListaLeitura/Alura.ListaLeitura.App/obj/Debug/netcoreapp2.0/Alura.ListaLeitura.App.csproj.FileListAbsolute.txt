@@ -1,3 +1,4 @@
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
@@ -9,4 +10,5 @@ D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debu
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
+D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\lista.cshtml
 D:\Github Projetos\ASPNET MVC\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
