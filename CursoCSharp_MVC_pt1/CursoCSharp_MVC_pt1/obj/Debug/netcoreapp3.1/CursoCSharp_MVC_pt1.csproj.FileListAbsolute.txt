@@ -1,0 +1,40 @@
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.exe
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.deps.json
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.runtimeconfig.json
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.dll
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.pdb
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\staticwebassets\CursoCSharp_MVC_pt1.StaticWebAssets.Manifest.cache
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\staticwebassets\CursoCSharp_MVC_pt1.StaticWebAssets.xml
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\scopedcss\bundle\CursoCSharp_MVC_pt1.styles.css
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.dll
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.pdb
+C:\Users\lucas\source\repos\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.genruntimeconfig.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.csproj.AssemblyReference.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.AssemblyInfoInputs.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.AssemblyInfo.cs
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.csproj.CoreCompileInputs.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.dll
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.pdb
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.exe
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.deps.json
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.runtimeconfig.json
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.runtimeconfig.dev.json
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.dll
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\bin\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.pdb
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\staticwebassets\CursoCSharp_MVC_pt1.StaticWebAssets.Manifest.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\staticwebassets\CursoCSharp_MVC_pt1.StaticWebAssets.xml
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\scopedcss\bundle\CursoCSharp_MVC_pt1.styles.css
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.RazorTargetAssemblyInfo.cache
+D:\Github Projetos\ASPNET MVC\CursoCSharp_MVC_pt1\CursoCSharp_MVC_pt1\obj\Debug\netcoreapp3.1\CursoCSharp_MVC_pt1.genruntimeconfig.cache
