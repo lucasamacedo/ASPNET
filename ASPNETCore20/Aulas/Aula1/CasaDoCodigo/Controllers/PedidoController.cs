@@ -43,5 +43,10 @@ namespace CasaDoCodigo.Controllers
             Pedido pedido = pedidoRepository.GetPedido();
             return View(pedido);
         }
+        [HttpPost]
+        public void UpdateQuantidade(int itemPedidoId, int quantidade)
+        {
+
+        }
     }
 }
