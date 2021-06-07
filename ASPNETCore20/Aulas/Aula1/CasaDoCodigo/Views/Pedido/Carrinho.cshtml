@@ -44,7 +44,8 @@
                             </button>
                         </span>
                         <input type="text" value="@(item.Quantidade)"
-                               class="form-control text-center" />
+                               class="form-control text-center" 
+                               onblur="carrinho.updateQuantidade(this)"/>
                         <span class="input-group-btn">
                             <button class="btn btn-default"
                                     onclick="carrinho.clickIncremento(this)">
