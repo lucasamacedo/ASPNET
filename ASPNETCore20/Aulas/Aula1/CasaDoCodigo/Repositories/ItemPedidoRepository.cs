@@ -18,7 +18,15 @@ namespace CasaDoCodigo.Repositories
 
         public void UpdateQuantidade(ItemPedido itemPedido)
         {
-            throw new NotImplementedException();
+            var itemPedidoDB = 
+            dbSet
+                .Where(ip => ip.Id == itemPedido.Id)
+                .SingleOrDefault();
+            if (itemPedidoDB != null)
+            {
+                itemPedidoDB.AtualizaQuantidade(itemPedido.Quantidade);
+                contexto.SaveChanges();
+            }
         }
     }
 }
