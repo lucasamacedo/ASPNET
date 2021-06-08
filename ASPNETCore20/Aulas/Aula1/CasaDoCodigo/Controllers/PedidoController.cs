@@ -39,6 +39,7 @@ namespace CasaDoCodigo.Controllers
             CarrinhoViewModel carrinhoViewModel = new CarrinhoViewModel(itens);
             return base.View(carrinhoViewModel);
         }
+
         public IActionResult Cadastro()
         {
             var pedido = pedidoRepository.GetPedido();
@@ -50,7 +51,9 @@ namespace CasaDoCodigo.Controllers
 
             return View(pedido.Cadastro);
         }
-        public IActionResult Resumo()
+
+        [HttpPost]
+        public IActionResult Resumo(Cadastro cadastro)
         {
             Pedido pedido = pedidoRepository.GetPedido();
             return View(pedido);
