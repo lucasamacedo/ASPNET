@@ -1,0 +1,9 @@
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.deps.json
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.dll
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\bin\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.pdb
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.csproj.AssemblyReference.cache
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.AssemblyInfoInputs.cache
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.AssemblyInfo.cs
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.csproj.CoreCompileInputs.cache
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.dll
+D:\Github Projetos\ASPNET MVC\Alura.WebAPI\Alura.WebAPI.DAL.Usuarios\obj\Debug\netcoreapp2.0\Alura.WebAPI.DAL.Usuarios.pdb
