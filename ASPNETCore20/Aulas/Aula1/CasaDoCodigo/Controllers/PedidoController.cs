@@ -63,6 +63,7 @@ namespace CasaDoCodigo.Controllers
             return RedirectToAction("Cadastro");
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public UpdateQuantidadeResponse UpdateQuantidade([FromBody]ItemPedido itemPedido)
         {
             return pedidoRepository.UpdateQuantidade(itemPedido);
