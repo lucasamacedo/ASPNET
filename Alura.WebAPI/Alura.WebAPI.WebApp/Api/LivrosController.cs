@@ -30,6 +30,13 @@ namespace Alura.WebAPI.WebApp.Api
             return Ok(model.ToModel());
         }
 
+        [HttpGet]
+        public IActionResult ListaDeLivros()
+        {
+            var lista = _repo.All.Select(l => l.ToModel()).ToList();
+            return Ok(lista);
+        }
+
         [HttpPost]
         public IActionResult Incluir([FromBody] LivroUpload model)
         {
