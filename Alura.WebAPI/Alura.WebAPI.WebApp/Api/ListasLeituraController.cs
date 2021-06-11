@@ -25,7 +25,10 @@ namespace Alura.WebAPI.WebApp.Api
             return new Lista
             {
                 Tipo = tipo.ParaString(),
-                Livros = _repo.All.Where(l => l.Lista == tipo).ToList()
+                Livros = _repo.All
+                    .Where(l => l.Lista == tipo).ToList()
+                    .Select(l => l.ToApi())
+                    .ToList()
             };
         }
         [HttpGet]
