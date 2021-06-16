@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Serialization;
 
@@ -13,6 +14,7 @@ namespace Alura.ListaLeitura.Modelos
         public byte[] ImagemCapa { get; set; }
         public string Autor { get; set; }
         public TipoListaLeitura Lista { get; set; }
+ 
     }
 
     [XmlType("Livro")]
