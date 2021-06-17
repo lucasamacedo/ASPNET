@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Alura.ListaLeitura.WebApp.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class HomeController : Controller
     {
         private readonly IRepository<Livro> _repo;
