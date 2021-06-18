@@ -35,6 +35,8 @@ namespace Alura.ListaLeitura.WebApp
             //    options.Password.RequireLowercase = false;
             //}).AddEntityFrameworkStores<AuthDbContext>();
 
+            services.AddHttpContextAccessor();
+            
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie(options => {
                     options.LoginPath = "/Usuario/Login";
