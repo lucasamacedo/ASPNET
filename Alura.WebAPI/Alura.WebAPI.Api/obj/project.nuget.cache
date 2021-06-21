@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZWecg4sn2G3ic9AirMbsVnHyBdfd6Z6ShZKsfb3YyMw6FU9eAVQQhkYDtx4o8DoF4BM1kZA/aMDNq8SIakpv+Q==",
+  "dgSpecHash": "i/fn1J3FDnq973UkUZMqC/mnfT0mLaTlyqZ1rmM4vkK4Z1tGhLITVvJxAA6lQGSareLdSyjD2nx9sY/Cqs2rrw==",
   "success": true,
   "projectFilePath": "D:\\Github Projetos\\ASPNET MVC\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
   "expectedPackageFiles": [
@@ -223,6 +223,7 @@
     "C:\\Users\\lucas\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io.pipelines\\4.5.0\\system.io.pipelines.4.5.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.linq.dynamic.core\\1.0.9\\system.linq.dynamic.core.1.0.9.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
