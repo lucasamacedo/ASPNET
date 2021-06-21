@@ -12,7 +12,7 @@ namespace Alura.WebAPI.Api.Controllers
     [ApiController]
     [Authorize]
     [ApiVersion("2.0")]
-    [Route("api/v{version:apiVersion}/livros")]
+    [Route("api/livros")]
     public class Livros2Controller : ControllerBase
     {
         private readonly IRepository<Livro> _repo;
