@@ -7,16 +7,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Alura.ListaLeitura.Api.Controllers
+namespace Alura.WebAPI.Api.Controllers
 {
-    [Authorize]
     [ApiController]
-    [Route("api/v1.0/[controller]")]
-    public class LivrosController : ControllerBase
+    [Authorize]
+    [Route("api/v2.0/livros")]
+    public class Livros2Controller : ControllerBase
     {
         private readonly IRepository<Livro> _repo;
 
-        public LivrosController(IRepository<Livro> repository)
+        public Livros2Controller(IRepository<Livro> repository)
         {
             _repo = repository;
         }
@@ -29,7 +29,7 @@ namespace Alura.ListaLeitura.Api.Controllers
             {
                 return NotFound();
             }
-            return Ok(model.ToApi());
+            return Ok(model);
         }
 
         [HttpGet("{id}/capa")]
@@ -96,6 +96,5 @@ namespace Alura.ListaLeitura.Api.Controllers
             _repo.Excluir(model);
             return NoContent(); // 204
         }
-
     }
 }
