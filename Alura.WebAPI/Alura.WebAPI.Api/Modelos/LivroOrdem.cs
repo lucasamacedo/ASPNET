@@ -20,7 +20,7 @@ namespace Alura.WebAPI.Api.Modelos
     }
     public class LivroOrdem
     {
-        public string OrdenarPor { get; set; }
+        public string OrdenarPor { get; set; } = "Titulo";
 
     }
 }
