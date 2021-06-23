@@ -5,6 +5,7 @@ using Alura.WebAPI.Api.Filtros;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -39,6 +40,11 @@ namespace Alura.WebAPI.Api
                 options.OutputFormatters.Add(new LivroCsvFormatter());
                 options.Filters.Add(typeof(ErrorResponseFilter));
             }).AddXmlSerializerFormatters();
+
+            services.Configure<ApiBehaviorOptions>(options =>
+            {
+                options.SuppressModelStateInvalidFilter = true;
+            });
 
             services.AddAuthentication(options =>
             {
