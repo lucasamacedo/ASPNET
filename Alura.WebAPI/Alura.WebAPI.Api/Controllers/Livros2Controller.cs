@@ -72,7 +72,7 @@ namespace Alura.WebAPI.Api.Controllers
                 var uri = Url.Action("Recuperar", new { id = livro.Id });
                 return Created(uri, livro); // 201
             }
-            return BadRequest(); // 400
+            return BadRequest(ErrorResponse.FromModelState(ModelState)); // 400
         }
 
         [HttpPut]
