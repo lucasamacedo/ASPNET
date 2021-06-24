@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sgfXObM9Y/kWdOsdi0YeZ1Y1I0M8k6f2GHBA/wbTOKt5pmCfi+dgMs82p0LyLpWQQlbZcMu79hU+PTM05FVt0Q==",
+  "dgSpecHash": "7Z0T8xqNz+n2w4X58nxrwUjZ1RRVOe0uV1XoJj39ve+plNbjfk3JJdLubhD6vrY55rUIH0HgAlyKGc1k/1PD7w==",
   "success": true,
   "projectFilePath": "D:\\Github Projetos\\ASPNET MVC\\Alura.WebAPI\\Alura.WebAPI.Api\\Alura.WebAPI.Api.csproj",
   "expectedPackageFiles": [
@@ -195,6 +195,7 @@
     "C:\\Users\\lucas\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore\\4.0.1\\swashbuckle.aspnetcore.4.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\4.0.1\\swashbuckle.aspnetcore.annotations.4.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\4.0.1\\swashbuckle.aspnetcore.swagger.4.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\4.0.1\\swashbuckle.aspnetcore.swaggergen.4.0.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\4.0.1\\swashbuckle.aspnetcore.swaggerui.4.0.1.nupkg.sha512",

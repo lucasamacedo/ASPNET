@@ -31,13 +31,15 @@ namespace Alura.WebAPI.Api
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<LeituraContext>(options => {
+            services.AddDbContext<LeituraContext>(options =>
+            {
                 options.UseSqlServer(Configuration.GetConnectionString("ListaLeitura"));
             });
 
             services.AddTransient<IRepository<Livro>, RepositorioBaseEF<Livro>>();
 
-            services.AddMvc(options => {
+            services.AddMvc(options =>
+            {
                 options.OutputFormatters.Add(new LivroCsvFormatter());
                 options.Filters.Add(typeof(ErrorResponseFilter));
             }).AddXmlSerializerFormatters();
@@ -76,7 +78,34 @@ namespace Alura.WebAPI.Api
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Description = "Documentação da API", Version = "1.0" });
+                c.SwaggerDoc("v1", new Info
+                {
+                    Title = "Livros API",
+                    Description = "Documentação da API",
+                    Version = "1.0"
+                });
+                c.SwaggerDoc("v2", new Info
+                {
+                    Title = "Livros API",
+                    Description = "Documentação da API",
+                    Version = "2.0"
+                });
+                c.EnableAnnotations();
+                c.AddSecurityDefinition("Bearer", new ApiKeyScheme
+                {
+                    Name = "Authorization",
+                    In = "header",
+                    Type = "apiKey",
+                    Description = "Autenticação Bearer via JWT"
+                });
+                c.AddSecurityRequirement(
+                    new Dictionary<string, IEnumerable<string>> {
+                    { "Bearer", new string[] { } }
+                });
+                c.DescribeAllEnumsAsStrings();
+                c.DescribeStringEnumsInCamelCase();
+                c.OperationFilter<AuthResponsesOperationFilter>();
+                c.DocumentFilter<TagDescriptionsDocumentFilter>();
             });
         }
 
@@ -94,7 +123,11 @@ namespace Alura.WebAPI.Api
 
             app.UseSwagger();
 
-            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "v1"));
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Versão 1.0");
+                c.SwaggerEndpoint("/swagger/v2/swagger.json", "Versão 2.0");
+            });
         }
     }
 }
